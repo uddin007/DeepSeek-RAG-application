@@ -11,5 +11,3 @@ To ensure an objective assessment, we employ the **LLM-as-a-Judge** approach, le
 - **Toxicity** – Detects **harmful, offensive, or biased content**, typically assessed using classifiers or tools like **Perspective API**.  
 - **Flesch-Kincaid Grade Level** – Evaluates **text readability** based on sentence structure and word complexity. Lower scores indicate easier-to-read text (e.g., an 8th-grade level is accessible to middle school readers).  
 - **Automated Readability Index (ARI) Grade Level** – Another readability measure that considers **character count per word** and **words per sentence**, where **higher ARI values indicate increased complexity** (e.g., ARI 12+ = college-level text).  
-
-By systematically applying these metrics, this analysis aims to **identify the strengths and weaknesses of each LLM** in real-world RAG implementations. Let’s dive into the evaluation results.  
